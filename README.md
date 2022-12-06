@@ -1,6 +1,6 @@
 # Coinverter: A React App for Currency Conversion
 
-## Steps for Installation of React on Local:
+## Steps for Installing React on Local:
 * Go to your browser; and install node.js
 * Go to cmd; check 'node -v' and 'npm -v'. If versions are displayed successfully, it means, node.js has been installed
 * Go to the project directory where the corresponding code was forked. Example - cd 'C://ABC/Projects'
