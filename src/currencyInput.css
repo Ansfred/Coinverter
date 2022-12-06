@@ -1,0 +1,30 @@
+.input-container {
+    background: rgb(125, 125, 175);
+    width: 400px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 300px 100px;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+input, select {
+    background: none;
+    border: 0;
+}
+
+input {
+    font-size: 28px;
+    font-weight: 500;
+    padding-left: 10px;
+    text-align: center;
+}
+
+select {
+    font-family: Cambria;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px;
+    border-left: 5px solid #fff;
+}
